@@ -10,7 +10,3 @@
 A4R2Y0A/A4R2Y0A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-number = 0
-while number <= 9:
-print(number)
-number = number +1
